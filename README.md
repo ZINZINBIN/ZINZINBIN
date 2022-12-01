@@ -7,7 +7,17 @@ Research Area
 ===
 ### Fusion Plasma
 - Disruption prediction using Deep Learning
+  - Disruption prediction using IVIS dataset(Video data) in KSTAR
+  - Disruption prediction using 0D data in KSTAR
+  - Multi-modal learning for disruption prediction
 - Tokamak plasma operation control using Reinforcement Learning
+  - Virtual Environment of KSTAR using Neural Network model
+  - Beta / q value control using DDPG 
+Developement
+===
+### Frontend
+- WelfareForEveryone : https://play.google.com/store/apps/details?id=com.product.welfareapp&pli=1
+- github link : https://github.com/21WelfareForEveryone/WelfareForEveryOne
 
 Tech Stack
 ===
