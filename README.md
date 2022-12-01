@@ -13,6 +13,8 @@ Research Area
 - Tokamak plasma operation control using Reinforcement Learning
   - Virtual Environment of KSTAR using Neural Network model
   - Beta / q value control using DDPG 
+
+
 Developement
 ===
 ### Frontend
