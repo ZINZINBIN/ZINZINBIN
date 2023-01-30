@@ -2,6 +2,9 @@
 
 About me
 ===
+I'm a graduate school student in Seoul National University. My major is fusion plasma and now i'm also working on Gausslabs as an applied scientist intern.
+I'm interested in AI application for fusion plasma and physics-informed machine learning. This is my linkedin profile https://www.linkedin.com/in/zinzinbin/
+Feel free to contact if you have interest about my research, work or whatever you want to know from me. 
 
 Research Area
 ===
@@ -14,6 +17,9 @@ Research Area
   - Virtual Environment of KSTAR using Neural Network model
   - Beta / q value control using DDPG 
 
+### Virtual Metrology for Semiconductor industry
+- ML application on plasma etching process in Virtual Metrology
+- Physics based plasma etching process control
 
 Developement
 ===
