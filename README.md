@@ -6,7 +6,7 @@ I'm a graduate school student in Seoul National University. My major is fusion p
 I'm interested in AI application for fusion plasma and physics-informed machine learning. This is my linkedin profile https://www.linkedin.com/in/zinzinbin/
 Feel free to contact if you have interest in my research, work or whatever you want to know from me. 
 
-Research Area
+Research area
 ===
 ### Fusion Plasma
 - Disruption prediction using Deep Learning
@@ -14,8 +14,10 @@ Research Area
   - Disruption prediction using 0D data in KSTAR
   - Multi-modal learning for disruption prediction
 - Tokamak plasma operation control using Reinforcement Learning
-  - Virtual Environment of KSTAR using Neural Network model
-  - Beta / q value control using DDPG 
+  - Development of Transformer-based virtual KSTAR environment
+  - Development of PINN-based Grad-Shfranov solver
+  - 0D parameters / shape parameters control using RL algorithms(DDPG, SAC) under the virtual KSTAR environemnt
+  - Application of Multi-agent reinforcement learning for autonomous tokamak operation control
 
 ### Virtual Metrology for Semiconductor industry
 - ML application on plasma etching process in Virtual Metrology
@@ -27,7 +29,10 @@ Developement
 - WelfareForEveryone : https://play.google.com/store/apps/details?id=com.product.welfareapp&pli=1
 - github link : https://github.com/21WelfareForEveryone/WelfareForEveryOne
 
-Tech Stack
+### Backend / AI
+- K-MolOCR(proceeding) : https://zinzinbin.notion.site/Project-K-MolOCR-783608fed0d443f38d3a42882d9bbf05
+
+Tech stack
 ===
 ### General
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
