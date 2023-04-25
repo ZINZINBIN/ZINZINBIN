@@ -3,8 +3,11 @@
 About me
 ===
 I'm a graduate school student in Seoul National University. My major is fusion plasma and now i'm also working on Gausslabs as an applied scientist intern.
-I'm interested in AI application for fusion plasma and physics-informed machine learning. This is my linkedin profile https://www.linkedin.com/in/zinzinbin/
+I'm interested in AI application for fusion plasma and physics-informed machine learning.
 Feel free to contact if you have interest in my research, work or whatever you want to know from me. 
+
+- My CV : https://zinzinbin.notion.site/My-profile-7032f684f72c4d32bec1e79940cdc46a
+- Linkedin : https://www.linkedin.com/in/zinzinbin/
 
 Research area
 ===
