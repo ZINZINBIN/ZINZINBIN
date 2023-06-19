@@ -7,7 +7,7 @@ I'm interested in AI application for fusion plasma and physics-informed machine 
 Feel free to contact if you have interest in my research, work or whatever you want to know from me. 
 
 - Notion page: <a href = "https://zinzinbin.notion.site/My-profile-7032f684f72c4d32bec1e79940cdc46a">[Jinsu Kim, profile]</a>
-- Academic CV: <a href = "https://docs.google.com/document/d/1BhAfJKpb1Ju4BZXJmjm0gbaRkU5XDH87/edit?usp=sharing&ouid=103232822913929091897&rtpof=true&sd=true", target = "_blank">[Jinsu Kim, Academic CV]</a>
+- Academic CV: <a href = "https://docs.google.com/document/d/1BhAfJKpb1Ju4BZXJmjm0gbaRkU5XDH87/edit?usp=sharing&ouid=103232822913929091897&rtpof=true&sd=true">[Jinsu Kim, Academic CV]</a>
 - Linkedin:<a href = "https://www.linkedin.com/in/zinzinbin/">[Linkedin : zinzinbin]</a>
 
 Research area
