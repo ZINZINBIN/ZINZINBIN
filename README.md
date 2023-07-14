@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jinsu KIM
+### Hi there 👋 I'm Jinsu Kim
 
 About me
 ===
