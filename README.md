@@ -2,7 +2,7 @@
 
 About me
 ===
-I'm a graduate school student in Seoul National University. My major is fusion plasma and now i'm also working on Gausslabs as an applied scientist intern.
+I'm a graduate school student in Seoul National University. My major is fusion plasma and now i worked on Gausslabs as a ML applied scientist intern.
 I'm interested in AI application for fusion plasma and physics-informed machine learning.
 Feel free to contact if you have interest in my research, work or whatever you want to know from me. 
 
