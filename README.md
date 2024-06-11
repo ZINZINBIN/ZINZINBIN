@@ -2,9 +2,9 @@
 
 About me
 ===
-I'm a graduate school student at Seoul National University. My major is fusion plasma and I worked on Gausslabs as a ML applied scientist intern.
-I'm interested in AI applications for fusion plasma and physics-informed machine learning.
-Feel free to contact me if you have an interest in my research, work, or whatever you want to know from me. 
+I'm interested in AI applications in nuclear fusion and plasma physics. During my undergraduate and graduate school, I majored in nuclear engineering and physics, focusing on the effect of RMP on electron heat transport in KSTAR. Recently, I studied plasma disruption prediction using Bayesian probabilistic deep learning and data-driven modeling of fusion plasma dynamics combined with autonomous control based on reinforcement learning. As a fusion AI researcher, I prioritize combining plasma physics and machine learning to achieve a physically consistent data-driven model. Several works are shared in my GitHub, so please see the repositories and share your opinions.
+
+Feel free to contact me if you are interested in my research, work, or whatever you want to know from me. 
 
 - Notion page: <a href = "https://zinzinbin.notion.site/My-profile-7032f684f72c4d32bec1e79940cdc46a">[Jinsu Kim, profile]</a>
 - CV: <a href = "https://docs.google.com/document/d/1BhAfJKpb1Ju4BZXJmjm0gbaRkU5XDH87/edit?usp=sharing&ouid=103232822913929091897&rtpof=true&sd=true">[Jinsu Kim, CV]</a>
@@ -18,14 +18,17 @@ Research area
   - Disruption prediction using 0D data in KSTAR
   - Multi-modal learning for disruption prediction
 - Tokamak plasma operation control using Reinforcement Learning
-  - Development of Transformer-based virtual KSTAR environment
+  - Development of a Transformer-based virtual KSTAR environment
   - Development of PINN-based Grad-Shfranov solver
-  - 0D parameters / shape parameters control using RL algorithms(DDPG, SAC) under the virtual KSTAR environemnt
+  - 0D parameters / shape parameters control using RL algorithms(DDPG, SAC) under the virtual KSTAR environment
   - Application of Multi-agent reinforcement learning for autonomous tokamak operation control
+- Design optimization of a tokamak fusion reactor based on reinforcement learning
+  - Development of design computation code of virtual tokamak fusion reactor
+  - Single-step reinforcement learning for optimizing the design configuration of the tokamak reactor
 
 ### Virtual Metrology for Semiconductor industry
 - ML application on plasma etching process in Virtual Metrology
-- Physics based plasma etching process control
+- Physics-based plasma etching process control
 
 Developement
 ===
