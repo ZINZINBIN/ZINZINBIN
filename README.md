@@ -12,7 +12,7 @@ Feel free to contact me if you are interested in my research, work, or whatever 
 
 Research area
 ===
-### Fusion Plasma
+### Fusion Plasma Application
 - Disruption prediction using Deep Learning
   - Disruption prediction using IVIS dataset(Video data) in KSTAR
   - Disruption prediction using 0D data in KSTAR
@@ -30,7 +30,7 @@ Research area
 - ML application on plasma etching process in Virtual Metrology
 - Physics-based plasma etching process control
 
-Developement
+Development
 ===
 ### Frontend
 - WelfareForEveryone : https://play.google.com/store/apps/details?id=com.product.welfareapp&pli=1
