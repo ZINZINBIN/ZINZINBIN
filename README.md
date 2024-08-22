@@ -2,9 +2,11 @@
 
 About me
 ===
-I'm interested in AI applications in nuclear fusion and plasma physics. During my undergraduate and graduate school, I majored in nuclear engineering and physics, focusing on the effect of RMP on electron heat transport in KSTAR. Recently, I studied plasma disruption prediction using Bayesian probabilistic deep learning and data-driven modeling of fusion plasma dynamics combined with autonomous control based on reinforcement learning. As a fusion AI researcher, I prioritize combining plasma physics and machine learning to achieve a physically consistent data-driven model. Several works are shared in my GitHub, so please see the repositories and share your opinions.
+I'm a mechanical and aerospace engineering graduate student at Princeton University, focusing on nuclear fusion plasma control. My academic interests are plasma physics (transport and pedestal physics) and physics-informed machine learning. 
 
-Feel free to contact me if you are interested in my research, work, or whatever you want to know from me. 
+For my undergraduate, I majored in nuclear engineering and physics, researching the effect of RMP on electron heat transport in KSTAR. My current prioritized academic topics are understanding the transport phenomenon and physics-informed data-driven modeling for plasma transport. In addition, AI applications in nuclear fusion, including plasma disruption prediction and zeroth order plasma dynamic modeling and control based on PINN and RL have been covered during my master's research. I share several works on my GitHub. Please see and share your opinions.
+
+Feel free to contact me if you are interested in my research, work, or anything else you want to know about me. 
 
 - Notion page: <a href = "https://zinzinbin.notion.site/My-profile-7032f684f72c4d32bec1e79940cdc46a">[Jinsu Kim, profile]</a>
 - CV: <a href = "https://docs.google.com/document/d/1BhAfJKpb1Ju4BZXJmjm0gbaRkU5XDH87/edit?usp=sharing&ouid=103232822913929091897&rtpof=true&sd=true">[Jinsu Kim, CV]</a>
@@ -37,7 +39,7 @@ Development
 - github link : https://github.com/21WelfareForEveryone/WelfareForEveryOne
 
 ### Backend / AI
-- K-MolOCR(proceeding) : https://zinzinbin.notion.site/Project-K-MolOCR-783608fed0d443f38d3a42882d9bbf05
+- K-MolOCR: https://zinzinbin.notion.site/Project-K-MolOCR-783608fed0d443f38d3a42882d9bbf05
 
 Tech stack
 ===
