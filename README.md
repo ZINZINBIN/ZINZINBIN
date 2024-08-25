@@ -8,7 +8,6 @@ For my undergraduate, I majored in nuclear engineering and physics, researching 
 
 Feel free to contact me if you are interested in my research, work, or anything else you want to know about me. 
 
-- Notion page: <a href = "https://zinzinbin.notion.site/My-profile-7032f684f72c4d32bec1e79940cdc46a">[Jinsu Kim, profile]</a>
 - CV: <a href = "https://docs.google.com/document/d/1BhAfJKpb1Ju4BZXJmjm0gbaRkU5XDH87/edit?usp=sharing&ouid=103232822913929091897&rtpof=true&sd=true">[Jinsu Kim, CV]</a>
 - Linkedin:<a href = "https://www.linkedin.com/in/zinzinbin/">[Linkedin : zinzinbin]</a>
 - Youtube: <a href = "https://www.youtube.com/watch?v=iT90QX1MZWM&t=886s">[AI in Nuclear Fusion: Bridging the gap between science and engineering, 8th Pseudocon]</a>
