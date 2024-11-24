@@ -2,31 +2,23 @@
 
 About me
 ===
-I'm a mechanical and aerospace engineering graduate student at Princeton University, focusing on nuclear fusion plasma control. My academic interests are plasma physics (transport and pedestal physics) and physics-informed machine learning. 
-
-For my undergraduate, I majored in nuclear engineering and physics, researching the effect of RMP on electron heat transport in KSTAR. My current prioritized academic topics are understanding the transport phenomenon and physics-informed data-driven modeling for plasma transport. In addition, AI applications in nuclear fusion, including plasma disruption prediction and zeroth order plasma dynamic modeling and control based on PINN and RL have been covered during my master's research. I share several works on my GitHub. Please see and share your opinions.
-
-Feel free to contact me if you are interested in my research, work, or anything else you want to know about me. 
+I'm a Ph.D graduate student in the Department of Mechanical and Aerospace Engineering at Princeton University. My research interests are in data-driven modeling and control for nonlinear dynamics. My previous research aimed at plasma heat transport and physics-informed data-driven modeling for zeroth order plasma dynamics and control. Now, I am working on theoretical aspects, including modeling dynamic systems, control theory, and structure-preserving model reduction with machine learning. I shared several computational works on Github. Feel free to contact me if you are interested in my research, work, or anything else you want to know about me. 
 
 - CV: <a href = "https://docs.google.com/document/d/1BhAfJKpb1Ju4BZXJmjm0gbaRkU5XDH87/edit?usp=sharing&ouid=103232822913929091897&rtpof=true&sd=true">[Jinsu Kim, CV]</a>
 - Linkedin:<a href = "https://www.linkedin.com/in/zinzinbin/">[Linkedin : zinzinbin]</a>
-- Youtube: <a href = "https://www.youtube.com/watch?v=iT90QX1MZWM&t=886s">[AI in Nuclear Fusion: Bridging the gap between science and engineering, 8th Pseudocon]</a>
+- Youtube: <a href = "https://www.youtube.com/watch?v=iT90QX1MZWM&t=0s">[AI in Nuclear Fusion: Bridging the gap between science and engineering, 8th Pseudocon]</a>
 
 Research area
 ===
+### Dynamics and Control
+- Symplectic model reduction on nonlinear systems
+- Physics-informed machine learning and modeling dynamics
+- Control theory
+
 ### Fusion Plasma Application
-- Disruption prediction using Deep Learning
-  - Disruption prediction using IVIS dataset(Video data) in KSTAR
-  - Disruption prediction using 0D data in KSTAR
-  - Multi-modal learning for disruption prediction
-- Tokamak plasma operation control using Reinforcement Learning
-  - Development of a Transformer-based virtual KSTAR environment
-  - Development of PINN-based Grad-Shfranov solver
-  - 0D parameters / shape parameters control using RL algorithms(DDPG, SAC) under the virtual KSTAR environment
-  - Application of Multi-agent reinforcement learning for autonomous tokamak operation control
-- Design optimization of a tokamak fusion reactor based on reinforcement learning
-  - Development of design computation code of virtual tokamak fusion reactor
-  - Single-step reinforcement learning for optimizing the design configuration of the tokamak reactor
+- Tokamak plasma disruption prediction based on data-driven modeling
+- Data-driven tokamak plasma dynamics modeling and control with deep reinforcement learning
+- Design optimization of a tokamak fusion reactor based on data-driven optimization
 
 ### Virtual Metrology for Semiconductor industry
 - ML application on plasma etching process in Virtual Metrology
