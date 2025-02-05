@@ -11,11 +11,11 @@ I'm a Ph.D graduate student in the Department of Mechanical and Aerospace Engine
 Research area
 ===
 ### Dynamics and Control
-- Symplectic model reduction on nonlinear systems
-- Physics-informed machine learning and modeling dynamics
-- Control theory
+- Symplectic model reduction of nonlinear systems
+- Physics-informed machine learning
+- Data assimilation and control
 
-### Fusion Plasma Application
+### Fusion Plasma
 - Tokamak plasma disruption prediction based on data-driven modeling
 - Data-driven tokamak plasma dynamics modeling and control with deep reinforcement learning
 - Design optimization of a tokamak fusion reactor based on data-driven optimization
