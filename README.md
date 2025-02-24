@@ -15,7 +15,7 @@ Research area
 - Physics-informed machine learning
 - Data assimilation and control
 
-### Fusion Plasma
+### Nuclear Fusion and Plasma Physics
 - Tokamak plasma disruption prediction based on data-driven modeling
 - Data-driven tokamak plasma dynamics modeling and control with deep reinforcement learning
 - Design optimization of a tokamak fusion reactor based on data-driven optimization
