@@ -11,7 +11,7 @@ I'm a Ph.D graduate student in the Department of Mechanical and Aerospace Engine
 
 Research area
 ===
-### Dynamics and Control
+### Dynamical systems and model order reduction 
 - Symplectic model reduction of nonlinear systems
 - Physics-informed machine learning
 - Data assimilation and control
