@@ -1,8 +1,6 @@
-### Hi there 👋 I'm Jinsu Kim
-
 About me
 ===
-I'm a Ph.D graduate student in the Department of Mechanical and Aerospace Engineering at Princeton University. My research interests are in data-driven modeling and control for nonlinear dynamics. I am working on structure-preserving computational dynamics and model reduction for complex physical systems, particularly kinetic plasma systems. I shared several computational works on Github. Feel free to contact me if you are interested in my research, work, or anything else you want to know about me. 
+I'm a Ph.D. candidate in the Department of Mechanical and Aerospace Engineering at Princeton University. My research interests are in structure-preserving reduced-order modeling in nonlinear dynamics. I am working on symplectic model reduction for nonlinear Hamiltonian systems and structure-preserving reduced-order modeling for collisionless and collisional plasma kinetic systems. I have shared several computational works on GitHub. Feel free to contact me if you are interested in my research, work, or anything else you want to know about me. 
 
 - CV: <a href = "https://docs.google.com/document/d/1BhAfJKpb1Ju4BZXJmjm0gbaRkU5XDH87/edit?usp=sharing&ouid=103232822913929091897&rtpof=true&sd=true">[Jinsu Kim, CV]</a>
 - Linkedin:<a href = "https://www.linkedin.com/in/zinzinbin/">[Linkedin: zinzinbin]</a>
@@ -12,10 +10,10 @@ I'm a Ph.D graduate student in the Department of Mechanical and Aerospace Engine
 Research area
 ===
 ### Dynamical systems and reduced-order modeling
-- Symplectic model reduction of nonlinear systems
-- Data assimilation and control
+- Symplectic model reduction of nonlinear Hamiltonian systems
+- Structure-preserving reduced-order modeling for collisionless and collisional plasma kinetic systems.
 
-### Plasma Dynamics
+### Plasma 
 - Tokamak plasma disruption prediction based on data-driven modeling
 - Data-driven tokamak plasma dynamics modeling and control with deep reinforcement learning
 - Design optimization of a tokamak fusion reactor based on data-driven optimization
